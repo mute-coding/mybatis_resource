@@ -1,0 +1,5 @@
+package com.rainey.mybatisTEST.Repository;
+
+public interface ProductRepository {
+
+}
